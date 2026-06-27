@@ -36,7 +36,7 @@ export default function About() {
             <FadeUp delay={80}>
               <InfoCard
                 label="Competitive Programming"
-                title="450+ Problems"
+                title="470+ Problems"
                 sub="LeetCode"
                 badge="400+ Day Streak"
               />
