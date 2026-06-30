@@ -69,7 +69,7 @@ export default function Navbar({ dark, toggleDark }) {
             href="#hero"
             className="font-mono text-sm font-medium text-indigo-600 dark:text-indigo-400 tracking-tight"
           >
-            &lt;Goutham /&gt;
+            Nagila Goutham
           </a>
 
           {/* Desktop Nav */}

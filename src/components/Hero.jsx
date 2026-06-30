@@ -81,7 +81,7 @@ export default function Hero() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-indigo-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500"></span>
               </span>
-              Open to Software Development Internships
+              Open to Software Development Roles
             </div>
 
             {/* Name renders once, statically — no animation on the name itself */}
