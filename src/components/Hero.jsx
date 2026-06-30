@@ -217,7 +217,7 @@ export default function Hero() {
                   <p className="pl-4">
                     <span className="text-[#ff7b72]">"leetcode_solved"</span>
                     <span className="text-gray-500">: </span>
-                    <span className="text-[#a5d6ff]">470+</span>,
+                    <span className="text-[#a5d6ff]">500+</span>,
                   </p>
                   <p className="pl-4">
                     <span className="text-[#ff7b72]">"streak_days"</span>
