@@ -116,7 +116,7 @@ export const projects = [
 // numeric portion can be animated as a count-up while static text
 // (like "Top " or "+") stays fixed.
 export const achievements = [
-  { prefix: "", target: 470, decimals: 0, suffix: "+", label: "LeetCode Problems", sub: "Solved" },
+  { prefix: "", target: 500, decimals: 0, suffix: "+", label: "LeetCode Problems", sub: "Solved" },
   { prefix: "", target: 400, decimals: 0, suffix: "+", label: "Day Coding Streak", sub: "Continuous" },
   { prefix: "", target: 9.62, decimals: 2, suffix: "", label: "CGPA", sub: "Out of 10.0" },
   { prefix: "Top ", target: 60, decimals: 0, suffix: "", label: "Sudhee-HICON 2026", sub: "Out of 400+ teams" },
@@ -141,6 +141,6 @@ export const currentFocus = [
   {
     icon: "🤖",
     title: "Learning Machine Learning Fundamentals",
-    desc: "Studying core ML concepts — supervised learning, neural networks, and model evaluation — to complement my full-stack background.",
+    desc: "Studying core ML concepts - supervised learning, neural networks, and model evaluation — to complement my full-stack background.",
   },
 ];
